@@ -8,17 +8,11 @@ Senior Software Engineer with 16+ years of experience building **secure, high-pe
 - Security & networking: **TCP/IP, web security, 802.1x**
 - AI integration: building product features with **Gemini**
 
-## Highlights (recent)
+## Highlights
 - **AI-powered review summaries & highlights** (Gemini)  
 - **Streaming hotel data pipelines** (Kafka)  
 - **ETL pipelines** in **BigQuery** orchestrated with **Airflow**  
 - **Real-time streaming systems** using **Kinesis + DynamoDB**
-
-## Selected Projects
-> Pin 4–6 repositories that best represent your work.
-- **Project A** — one-line value statement + stack + link to demo
-- **Project B** — what problem it solves + your role + key tech
-- **Project C** — smaller but polished (library/CLI/tooling) + tests/CI badge
 
 ## Tech Stack
 - **Languages:** C, Python, Java  
