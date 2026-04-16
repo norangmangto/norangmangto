@@ -1,4 +1,4 @@
-# Hi, I’m Beomsoo Jang (norangmangto)
+# Hi, I’m Beomsoo
 
 Senior Software Engineer with 16+ years of experience building **secure, high-performance, scalable systems** across **cloud (AWS/GCP)**, **streaming/data engineering**, and **network security**.
 
